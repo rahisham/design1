@@ -1,0 +1,22 @@
+.top{
+  margin-top: 20px;
+  margin-left: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(179, 219, 213);
+  text-align: center;
+  text-decoration: none;
+  font-size: larger;
+  font-weight: bolder;
+  border-radius: 5px;
+  font-stretch: extra-expanded;
+}
+
+.top1{
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 15px 10px 15px 10px;
+  margin-top: 0%;
+}
